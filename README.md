@@ -1,4 +1,4 @@
-# Forage-BCGX-Gen-AI-
+# Forage-BCGX-Gen-AI
 # Financial Data Analysis Project
 
 ## Overview
