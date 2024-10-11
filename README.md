@@ -20,4 +20,4 @@ The Financial Data Analysis project is a virtual internship with BCGX for GENAI.
 - **Jupyter Notebook**
 - **Pandas** (for data manipulation)
 - **Excel** (for data organization)
-- **Plotly** (for data visualization, optional)
+- **Plotly** (for data visualization)
