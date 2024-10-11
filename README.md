@@ -1,7 +1,7 @@
 # Forage-BCGX-Gen-AI
 # Financial Data Analysis Project
 
-The Financial Data Analysis project is a virtual internship with BCGX for GEN-AI. This project focuses on extracting and analyzing financial data from 10-K filings of major corporations (Microsoft, Tesla, and Apple) to inform the development of an AI-powered financial chatbot for Global Finance Corp. (GFC).
+The Financial Data Analysis project is a virtual internship with BCGX consulting team for GEN-AI. This project focuses on extracting and analyzing financial data from 10-K filings of major corporations (Microsoft, Tesla, and Apple) to inform the development of an AI-powered financial chatbot for Global Finance Corp. (GFC).
 
 ## Objectives
 
